@@ -19,6 +19,7 @@ $ https://nodejs.org/en/download
 ```
 Vamos utilizar a versão Current do Node é 19.9.0. 
 Execute a instalação, seguindo as instruções na tela e pronto.
+
 ### ATENÇÃO
 Na instalação do Node, selecionar(Marcar) a opção de adicionado ao PATH do Windows. Com isto, NÂO teremos que configurar as variavéis de ambiente.
 
@@ -41,22 +42,22 @@ Instalar Node.js
 ```
 Escolher uma IDE de JavaScript para programar
 ```
-2- Passo de um clone no projeto
+2- Clone o projeto desejado
 ```
-git clone https://github.com/rodrigoarriel56/automation-cypress-back-trello.git
+git clone https://github.com/rodrigoarriel56/automation-back-cypress-bookStoreWebAPI.git
 ```
-3- Passo de entrar na pasta do projeto
+3- Entrar na pasta do projeto
 ```
-cd automation-cypress-back-trello
+cd automation-back-cypress-bookStoreWebAPI
 ```
 
-4- Instalar o Cypress com Cucumber executando o seguinte comando na raíz da pasta do seu projeto
+4- Instalar o Cypress executando o seguinte comando na raíz da pasta do seu projeto
 ```
 npm install
 ```
-5 - Passo de execução dos testes:
+5 - Execução dos testes:
 ```
-5.1 - Para iniciar os testes, execute um dos seguintes comandos no terminal do VS Code:
+5.1 - Para iniciar os testes, execute o seguinte comando no terminal do VS Code:
 ```
 ```
 Para executar os testes via terminal: npx cypress run
