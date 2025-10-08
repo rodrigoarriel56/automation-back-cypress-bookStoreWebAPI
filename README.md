@@ -50,13 +50,12 @@ cd automation-back-cypress-bookStoreWebAPI
 npm install
 ```
 4 - Execução dos testes:
-```
+
 4.1 - Para iniciar os testes, execute o seguinte comando no terminal do VS Code:
 ```
+Para executar os testes via terminal:
 ```
-```
-Para executar os testes via terminal: npx cypress run
-```
+npx cypress run
 ```
 Para executar os testes via browser: npx cypress run --browser chrome --no-exit
 ```
