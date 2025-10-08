@@ -54,6 +54,7 @@ npm install
 4.1 - Para iniciar os testes, execute o seguinte comando no terminal do VS Code:
 ```
 ```
+```
 Para executar os testes via terminal: npx cypress run
 ```
 ```
