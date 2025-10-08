@@ -35,29 +35,23 @@ v19.9.0
 
 # Configuração do Ambiente Cypress
 
-1 - Configuração do Ambiente Cypress:
+Escolher uma IDE que suporte JavaScript para programar
 ```
-Instalar Node.js
-```
-```
-Escolher uma IDE de JavaScript para programar
-```
-2- Clone o projeto desejado
+1 - Clone o projeto desejado
 ```
 git clone https://github.com/rodrigoarriel56/automation-back-cypress-bookStoreWebAPI.git
 ```
-3- Entrar na pasta do projeto
+2 - Entrar na pasta do projeto
 ```
 cd automation-back-cypress-bookStoreWebAPI
 ```
-
-4- Instalar o Cypress executando o seguinte comando na raíz da pasta do seu projeto
+3 - Instalar o Cypress executando o seguinte comando na raíz da pasta do seu projeto
 ```
 npm install
 ```
-5 - Execução dos testes:
+4 - Execução dos testes:
 ```
-5.1 - Para iniciar os testes, execute o seguinte comando no terminal do VS Code:
+4.1 - Para iniciar os testes, execute o seguinte comando no terminal do VS Code:
 ```
 ```
 Para executar os testes via terminal: npx cypress run
