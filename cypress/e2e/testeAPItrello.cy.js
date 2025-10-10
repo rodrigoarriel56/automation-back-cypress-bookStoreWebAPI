@@ -10,7 +10,7 @@ let cartaoID;
 it('Cadastrar quadro novo no trello', () => {
     cy.request({
     method: 'POST',
-    url: 'https://api.trello.com/1/boards/', //https://api.trello.com/u/rodrigoarriel1/boards
+    url: 'https://api.trello.com/1/boards/',
      qs: 
     {
         name: 'AUTOMAÇÃO DE QA',
