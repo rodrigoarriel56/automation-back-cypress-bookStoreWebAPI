@@ -1,10 +1,13 @@
-# automation-back-cypress-bookStoreWebAPI
-
-<img width="257" alt="image" src="https://github.com/user-attachments/assets/437e1f1e-dbbc-4474-9c89-07de3c2c96e1"/>
 <h1>Testes Automatizados com Cypress</h1>
 
-<img width="1024" height="585" alt="image" src="https://github.com/user-attachments/assets/4945659f-e486-4901-a226-e85c91179a39" />
+<div style="display: flex; gap: 10px;">
+  <img width="257" alt="image" src="https://github.com/user-attachments/assets/437e1f1e-dbbc-4474-9c89-07de3c2c96e1"/>
+  <img width="257" height="160" alt="image" src="https://github.com/user-attachments/assets/4945659f-e486-4901-a226-e85c91179a39"/>
+</div>
 
+<h1></h1>
+
+# automation-back-cypress
 
 Projeto de automação de testes com a ferramenta Cypress.
 
