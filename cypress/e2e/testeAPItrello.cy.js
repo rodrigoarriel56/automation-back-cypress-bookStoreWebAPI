@@ -1,6 +1,8 @@
 describe('Validar a criacao de um board - Apenas API', () => {
 
-    //ATENÇÃO, POR MOTIVO DE SEGURANÇA, NÃO ESQUECER DE DE PREENCHER AS CREDENCIAIS DE CHAVE E TOKEN 
+//ATENÇÃO, POR MOTIVO DE SEGURANÇA, NÃO ESQUECER DE DE PREENCHER AS CREDENCIAIS DE CHAVE E TOKEN
+// As informações de chave e token podem ser obtidas no arquivo .txt no seguinte caminho:
+// desafio\credenciais\credenciais.txt
 const key = ''
 const token = ''
 let quadroID;
