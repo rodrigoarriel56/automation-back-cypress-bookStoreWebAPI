@@ -36,7 +36,7 @@ node --version
 ```
 Deverá ser apresento a versão instalada:
 ```sh
-v19.9.0
+v../..
 ```
 
 # Configuração do Ambiente Cypress
@@ -56,17 +56,23 @@ cd automation-back-cypress-bookStoreWebAPI
 ```
 npm install
 ```
-
 ## 4 - Execução dos testes: ##
 //ATENÇÃO, POR MOTIVO DE SEGURANÇA, NÃO ESQUECER DE DE PREENCHER AS CREDENCIAIS DE CHAVE E TOKEN
 // As informações de chave e token podem ser obtidas no arquivo .txt no seguinte caminho:
 ```
 desafio\credenciais\credenciais.txt
 ```
-
 ## 5 - Execução dos testes: ##
 
-4.1 - Para iniciar os testes, execute o seguinte comando no terminal do VS Code:
+5.1 - Para iniciar os testes, execute o seguinte comando no terminal do VS Code:
 ```
 npx cypress run
 ```
+## 6 - Resultado dos testes: ##
+
+6.1 - Ao final das execuções dos testes, será gera as evidências dos testes no seguinte diretorio:
+```
+cypress\screenshots
+```
+
+

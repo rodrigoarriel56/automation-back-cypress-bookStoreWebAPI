@@ -2,7 +2,7 @@ describe('Criar usuário dinâmico a cada execução', () => {
   const timestamp = Date.now();
   const novoUsuario = {
     userName: `usuario_${timestamp}`,
-    password: '@A#erriel2024'
+    password: '@A#erriel2027'
   };
 
   it('Deve criar um novo usuário com sucesso', () => {
@@ -27,8 +27,8 @@ describe('Criar usuário dinâmico a cada execução', () => {
 
 describe('Verificar se o usuário está autorizado', () => {
   const usuario = {
-    userName: 'rodrigo.arriel',
-    password: '@A#erriel2024'
+    userName: 'rodrigo.arriel1',
+    password: '@A#erriel2026'
   };
 
   it('Deve confirmar que o usuário está autorizado', () => {
